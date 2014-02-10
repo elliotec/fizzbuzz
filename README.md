@@ -21,3 +21,7 @@ If its not divisible by all three numbers, it checks whether it is divisble by e
 
 If it is not divisible by any of the three numbers, it prints the nubmer itself. 
 
+License
+===
+
+[MIT License](http://elliotec.mit-license.org/)
